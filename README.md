@@ -1,3 +1,4 @@
 Run link below to generate test signal:
 
-https://notebooks.gesis.org/binder/jupyter/user/jtm5-hamsci_tdoa_siggen-munlkkce/doc/tree/TDOA_SigGen.ipynb
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/jtm5/HamSCI_TDOA_SigGen.git/HEAD?labpath=TDOA_SigGen.ipynb
